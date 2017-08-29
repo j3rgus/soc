@@ -1,0 +1,27 @@
+Partlist exported from C:/documents and settings/jergus/dokumenty/eagle/clock/clok/clock.sch at 24. 1. 2010 17:50:13
+
+Part    Value   Device        Package  Description    
+78MH03          78LXXZA       TO-92B                  
+78MH05          78LXXZA       TO-92B                  
+BAT             JUM-1X2       1X02                    
+BP1             B_BH2032      B_BH2032                
+CE1             CE-R05_2,5    CR05_2,5                
+CE2             CE-R05_2,5    CR05_2,5                
+CE3             CE-R05_2,5    CR05_2,5                
+CE4             CE-R05_2,5    CR05_2,5                
+DS1307  DS1307  DS1307        DIL-08                  
+DS1820  DS1820  DS1820        TO-92B                  
+IC1     MEGA8-P MEGA8-P       DIL28-3  MICROCONTROLLER
+K1              PIN-2X5MLW10G LH-10                   
+K2              PIN-2X10LH    LH-20                   
+Q1              CRYSTALTC26V  TC26V    CRYSTAL        
+R1              R_KLASIK2X10S R2_10S                  
+R2              R_KLASIK2X10S R2_10S                  
+R3              R_KLASIK2X10S R2_10S                  
+R4              R_KLASIK2X10S R2_10S                  
+R10             R-TRIMM64P    RTRIM64P Trimm resistor 
+R11             R-TRIMM64P    RTRIM64P Trimm resistor 
+RF_IO           PINHD-1X1     1X01                    
+RN1             RA04          RN-5                    
+SPEAKER         JUM-1X2       1X02                    
+TL_RES          JUM-2X2       2X02                    

@@ -1,0 +1,920 @@
+Address = 0x000000a6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:26:0:-1
+Address = 0x000000a8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:27:0:-1
+Address = 0x000000aa  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:28:0:-1
+Address = 0x000000ac  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000000b4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:30:0:-1
+Address = 0x000000b6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x000000bc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:32:0:-1
+Address = 0x000000be  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000000c6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:34:0:-1
+Address = 0x000000ca  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:36:0:-1
+Address = 0x000000d2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:45:0:-1
+Address = 0x000000d2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:47:0:-1
+Address = 0x000000d8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x000000dc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:50:0:-1
+Address = 0x000000de  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:51:0:-1
+Address = 0x000000e0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x000000e6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:53:0:-1
+Address = 0x000000e8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x000000ee  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:55:0:-1
+Address = 0x000000f6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x000000fc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:48:0:-1
+Address = 0x00000102  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:58:0:-1
+Address = 0x00000104  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:60:0:-1
+Address = 0x00000108  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:71:0:-1
+Address = 0x0000010c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x00000110  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:73:0:-1
+Address = 0x00000112  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:74:0:-1
+Address = 0x00000114  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:75:0:-1
+Address = 0x00000118  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x0000011e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:77:0:-1
+Address = 0x00000120  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x0000012a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:82:0:-1
+Address = 0x0000012c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x00000132  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:72:0:-1
+Address = 0x00000138  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:85:0:-1
+Address = 0x0000013c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:87:0:-1
+Address = 0x0000013e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:88:0:-1
+Address = 0x00000140  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:97:0:-1
+Address = 0x00000146  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:98:0:-1
+Address = 0x0000014c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:99:0:-1
+Address = 0x0000014e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:109:0:-1
+Address = 0x00000154  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:110:0:-1
+Address = 0x0000015a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:111:0:-1
+Address = 0x0000015c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:19:0:-1
+Address = 0x0000015e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:20:0:-1
+Address = 0x00000160  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:21:0:-1
+Address = 0x00000162  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:22:0:-1
+Address = 0x00000164  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:23:0:-1
+Address = 0x00000166  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:24:0:-1
+Address = 0x0000016a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:26:0:-1
+Address = 0x0000016e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x00000176  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:29:0:-1
+Address = 0x00000178  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:30:0:-1
+Address = 0x0000017a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x0000017e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:32:0:-1
+Address = 0x00000180  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:33:0:-1
+Address = 0x00000182  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:34:0:-1
+Address = 0x00000188  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:35:0:-1
+Address = 0x0000018a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:36:0:-1
+Address = 0x0000018c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:46:0:-1
+Address = 0x0000018e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:47:0:-1
+Address = 0x00000190  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:48:0:-1
+Address = 0x00000192  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:49:0:-1
+Address = 0x00000194  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:50:0:-1
+Address = 0x00000196  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x0000019c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:52:0:-1
+Address = 0x0000019e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x000001a4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:54:0:-1
+Address = 0x000001a6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:55:0:-1
+Address = 0x000001a8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:56:0:-1
+Address = 0x000001aa  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:68:0:-1
+Address = 0x000001ae  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x000001b2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:70:0:-1
+Address = 0x000001b6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:71:0:-1
+Address = 0x000001b8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:72:0:-1
+Address = 0x000001bc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:75:0:-1
+Address = 0x000001be  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x000001c4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:78:0:-1
+Address = 0x000001c6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x000001cc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:80:0:-1
+Address = 0x000001d0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x000001d6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:83:0:-1
+Address = 0x000001d8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:84:0:-1
+Address = 0x000001da  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:69:0:-1
+Address = 0x000001e0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:85:0:-1
+Address = 0x000001e4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:87:0:-1
+Address = 0x000001e6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x000001ec  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:89:0:-1
+Address = 0x000001ee  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x000001f4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:91:0:-1
+Address = 0x000001f6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:93:0:-1
+Address = 0x000001f8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:94:0:-1
+Address = 0x000001fa  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:95:0:-1
+Address = 0x00000204  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:97:0:-1
+Address = 0x00000208  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:109:0:-1
+Address = 0x0000020e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x00000212  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:111:0:-1
+Address = 0x00000214  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:112:0:-1
+Address = 0x00000216  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:113:0:-1
+Address = 0x0000021a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x00000220  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:116:0:-1
+Address = 0x00000222  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:118:0:-1
+Address = 0x00000224  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x0000022a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:120:0:-1
+Address = 0x0000022c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:121:0:-1
+Address = 0x0000022e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x00000234  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:110:0:-1
+Address = 0x0000023a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:124:0:-1
+Address = 0x0000023c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x00000244  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:126:0:-1
+Address = 0x00000246  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x0000024c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:128:0:-1
+Address = 0x0000024e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:129:0:-1
+Address = 0x00000250  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x00000256  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:131:0:-1
+Address = 0x00000258  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x0000025c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:133:0:-1
+Address = 0x0000025e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:135:0:-1
+Address = 0x00000262  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:143:0:-1
+Address = 0x0000026a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:144:0:-1
+Address = 0x0000026e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:145:0:-1
+Address = 0x00000274  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:146:0:-1
+Address = 0x0000027a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:147:0:-1
+Address = 0x00000280  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:148:0:-1
+Address = 0x00000284  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:149:0:-1
+Address = 0x0000028a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:158:0:-1
+Address = 0x0000028e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:160:0:-1
+Address = 0x00000292  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:161:0:-1
+Address = 0x00000298  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:162:0:-1
+Address = 0x0000029e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:163:0:-1
+Address = 0x000002a2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:164:0:-1
+Address = 0x000002a8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:165:0:-1
+Address = 0x000002ae  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:166:0:-1
+Address = 0x000002b2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1307\/ds1307.c:168:0:-1
+Address = 0x000002b8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:22:0:-1
+Address = 0x000002ba  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:23:0:-1
+Address = 0x000002c0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:24:0:-1
+Address = 0x000002c2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:25:0:-1
+Address = 0x000002c4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000002ce  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:27:0:-1
+Address = 0x000002d0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:28:0:-1
+Address = 0x000002d2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000002d8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:30:0:-1
+Address = 0x000002e6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:31:0:-1
+Address = 0x000002e8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:32:0:-1
+Address = 0x000002ea  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000002f0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:34:0:-1
+Address = 0x000002f2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:35:0:-1
+Address = 0x000002f4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000002fa  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:37:0:-1
+Address = 0x000002fc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:38:0:-1
+Address = 0x000002fe  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:41:0:-1
+Address = 0x00000300  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:42:0:-1
+Address = 0x00000306  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:43:0:-1
+Address = 0x00000308  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000312  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:45:0:-1
+Address = 0x00000314  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x0000031a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:47:0:-1
+Address = 0x00000328  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:48:0:-1
+Address = 0x0000032a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000330  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:50:0:-1
+Address = 0x00000332  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000338  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:52:0:-1
+Address = 0x0000033a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:53:0:-1
+Address = 0x0000033c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:56:0:-1
+Address = 0x0000033e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000346  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:58:0:-1
+Address = 0x00000348  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:59:0:-1
+Address = 0x0000034a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:60:0:-1
+Address = 0x00000350  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:61:0:-1
+Address = 0x00000356  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:63:0:-1
+Address = 0x0000035a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:64:0:-1
+Address = 0x0000035c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000366  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:66:0:-1
+Address = 0x00000368  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x0000036e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:69:0:-1
+Address = 0x00000370  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:70:0:-1
+Address = 0x00000372  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000378  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:72:0:-1
+Address = 0x0000037a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000380  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:75:0:-1
+Address = 0x00000384  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:76:0:-1
+Address = 0x00000386  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x0000038c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:78:0:-1
+Address = 0x0000038e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000394  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:81:0:-1
+Address = 0x0000039a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:83:0:-1
+Address = 0x000003a0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:84:0:-1
+Address = 0x000003a2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:85:0:-1
+Address = 0x000003a4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:88:0:-1
+Address = 0x000003aa  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:89:0:-1
+Address = 0x000003ac  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:92:0:-1
+Address = 0x000003b2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:93:0:-1
+Address = 0x000003b4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:95:0:-1
+Address = 0x000003be  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:99:0:-1
+Address = 0x000003c8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:104:0:-1
+Address = 0x000003ce  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:102:0:-1
+Address = 0x000003d4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:106:0:-1
+Address = 0x000003de  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:109:0:-1
+Address = 0x000003e0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:112:0:-1
+Address = 0x000003ec  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:115:0:-1
+Address = 0x000003f0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:116:0:-1
+Address = 0x000003f4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:117:0:-1
+Address = 0x000003f6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:121:0:-1
+Address = 0x000003fc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:122:0:-1
+Address = 0x000003fe  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:123:0:-1
+Address = 0x00000400  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:128:0:-1
+Address = 0x0000040a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:130:0:-1
+Address = 0x00000414  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:133:0:-1
+Address = 0x00000418  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:131:0:-1
+Address = 0x00000426  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:135:0:-1
+Address = 0x0000042e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:151:0:-1
+Address = 0x0000043e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:154:0:-1
+Address = 0x0000044a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:156:0:-1
+Address = 0x00000452  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:157:0:-1
+Address = 0x0000045a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:158:0:-1
+Address = 0x00000460  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:155:0:-1
+Address = 0x00000468  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:160:0:-1
+Address = 0x00000476  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:163:0:-1
+Address = 0x0000047c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:163:0:-1
+Address = 0x00000480  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:166:0:-1
+Address = 0x00000486  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:164:0:-1
+Address = 0x0000048c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:168:0:-1
+Address = 0x00000492  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:170:0:-1
+Address = 0x00000498  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:170:0:-1
+Address = 0x0000049c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:173:0:-1
+Address = 0x000004a2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:171:0:-1
+Address = 0x000004a8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:175:0:-1
+Address = 0x000004ae  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:178:0:-1
+Address = 0x000004b4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:179:0:-1
+Address = 0x000004b6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:182:0:-1
+Address = 0x000004bc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:183:0:-1
+Address = 0x000004be  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:186:0:-1
+Address = 0x000004c4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:187:0:-1
+Address = 0x000004c6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:190:0:-1
+Address = 0x000004cc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:191:0:-1
+Address = 0x000004ce  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:194:0:-1
+Address = 0x000004d4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:195:0:-1
+Address = 0x000004d6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:197:0:-1
+Address = 0x000004dc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:197:0:-1
+Address = 0x000004e0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:200:0:-1
+Address = 0x000004e6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:198:0:-1
+Address = 0x000004ec  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:202:0:-1
+Address = 0x000004f2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:204:0:-1
+Address = 0x000004f8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:204:0:-1
+Address = 0x000004fc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:207:0:-1
+Address = 0x00000502  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:205:0:-1
+Address = 0x00000508  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/lcd/lcd_lib.c:209:0:-1
+Address = 0x0000050e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:111:0:-1
+Address = 0x0000051a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:112:0:-1
+Address = 0x00000522  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:113:0:-1
+Address = 0x00000524  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:117:0:-1
+Address = 0x00000530  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:118:0:-1
+Address = 0x00000538  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:119:0:-1
+Address = 0x0000053a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:123:0:-1
+Address = 0x00000548  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000554  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:125:0:-1
+Address = 0x00000556  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:128:0:-1
+Address = 0x00000558  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:128:0:-1
+Address = 0x0000056a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:130:0:-1
+Address = 0x00000570  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:133:0:-1
+Address = 0x00000580  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:135:0:-1
+Address = 0x00000584  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:138:0:-1
+Address = 0x0000058a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:141:0:-1
+Address = 0x0000058e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:142:0:-1
+Address = 0x00000592  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:134:0:-1
+Address = 0x000005a6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:143:0:-1
+Address = 0x000005aa  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:134:0:-1
+Address = 0x000005ba  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:146:0:-1
+Address = 0x000005be  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:145:0:-1
+Address = 0x000005d8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:146:0:-1
+Address = 0x000005e4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:147:0:-1
+Address = 0x000005f6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:148:0:-1
+Address = 0x00000604  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:150:0:-1
+Address = 0x0000060c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:151:0:-1
+Address = 0x00000612  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:152:0:-1
+Address = 0x00000618  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:153:0:-1
+Address = 0x0000061a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:155:0:-1
+Address = 0x0000061e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:156:0:-1
+Address = 0x00000626  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:535:0:-1
+Address = 0x0000062a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:538:0:-1
+Address = 0x00000630  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:539:0:-1
+Address = 0x00000638  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:541:0:-1
+Address = 0x0000063e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:540:0:-1
+Address = 0x00000644  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:542:0:-1
+Address = 0x0000064a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:545:0:-1
+Address = 0x00000654  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:546:0:-1
+Address = 0x00000658  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:547:0:-1
+Address = 0x00000660  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:548:0:-1
+Address = 0x00000668  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:554:0:-1
+Address = 0x00000670  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:555:0:-1
+Address = 0x00000678  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:556:0:-1
+Address = 0x0000067c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:557:0:-1
+Address = 0x00000684  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:558:0:-1
+Address = 0x0000068c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:559:0:-1
+Address = 0x00000694  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:561:0:-1
+Address = 0x0000069c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:562:0:-1
+Address = 0x000006a0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:563:0:-1
+Address = 0x000006a8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:564:0:-1
+Address = 0x000006b0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:565:0:-1
+Address = 0x000006ba  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:571:0:-1
+Address = 0x000006bc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:572:0:-1
+Address = 0x000006c4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:574:0:-1
+Address = 0x000006c8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000006d0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:576:0:-1
+Address = 0x000006d2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:579:0:-1
+Address = 0x000006d4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:579:0:-1
+Address = 0x000006d6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000006dc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:572:0:-1
+Address = 0x000006e4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:582:0:-1
+Address = 0x000006e6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:574:0:-1
+Address = 0x000006ea  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000006f0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:581:0:-1
+Address = 0x000006fc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:584:0:-1
+Address = 0x000006fe  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:588:0:-1
+Address = 0x00000706  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:590:0:-1
+Address = 0x0000070a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:591:0:-1
+Address = 0x0000070c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:596:0:-1
+Address = 0x00000710  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:597:0:-1
+Address = 0x00000716  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:598:0:-1
+Address = 0x0000071c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:599:0:-1
+Address = 0x00000720  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:600:0:-1
+Address = 0x00000726  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:601:0:-1
+Address = 0x00000728  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:40:0:-1
+Address = 0x00000732  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:42:0:-1
+Address = 0x0000073c  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:45:0:-1
+Address = 0x0000075e  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:48:0:-1
+Address = 0x00000768  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:49:0:-1
+Address = 0x0000076c  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:50:0:-1
+Address = 0x00000770  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:51:0:-1
+Address = 0x00000774  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:572:0:-1
+Address = 0x0000077c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:574:0:-1
+Address = 0x00000782  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x0000078a  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:54:0:-1
+Address = 0x00000796  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:55:0:-1
+Address = 0x0000079a  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:56:0:-1
+Address = 0x000007a6  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:57:0:-1
+Address = 0x000007ac  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:59:0:-1
+Address = 0x000007b8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000007bc  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:59:0:-1
+Address = 0x000007c4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:572:0:-1
+Address = 0x000007cc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:574:0:-1
+Address = 0x000007d0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000007da  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:58:0:-1
+Address = 0x000007e0  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:62:0:-1
+Address = 0x000007ec  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000007f0  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:62:0:-1
+Address = 0x000007f8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:572:0:-1
+Address = 0x00000800  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:574:0:-1
+Address = 0x00000804  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x0000080e  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:61:0:-1
+Address = 0x00000814  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:65:0:-1
+Address = 0x00000820  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000824  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:65:0:-1
+Address = 0x0000082c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:572:0:-1
+Address = 0x00000834  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:574:0:-1
+Address = 0x00000838  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000842  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:64:0:-1
+Address = 0x00000848  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:67:0:-1
+Address = 0x0000085c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:572:0:-1
+Address = 0x00000864  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:67:0:-1
+Address = 0x00000868  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:574:0:-1
+Address = 0x0000086c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000874  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:68:0:-1
+Address = 0x00000878  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:572:0:-1
+Address = 0x00000880  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:574:0:-1
+Address = 0x00000884  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x0000088c  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:69:0:-1
+Address = 0x00000890  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:572:0:-1
+Address = 0x00000898  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:574:0:-1
+Address = 0x0000089c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000008a4  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:70:0:-1
+Address = 0x000008a8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:572:0:-1
+Address = 0x000008b0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:574:0:-1
+Address = 0x000008b4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000008ca  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:73:0:-1
+Address = 0x000008cc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:572:0:-1
+Address = 0x000008d4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:574:0:-1
+Address = 0x000008d8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000008e0  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:72:0:-1
+Address = 0x000008ee  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:71:0:-1
+Address = 0x0000090c  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:76:0:-1
+Address = 0x00000910  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:588:0:-1
+Address = 0x00000918  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:590:0:-1
+Address = 0x0000091c  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:77:0:-1
+Address = 0x00000920  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:78:0:-1
+Address = 0x00000926  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:588:0:-1
+Address = 0x0000092e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:590:0:-1
+Address = 0x00000932  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:79:0:-1
+Address = 0x00000936  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:80:0:-1
+Address = 0x0000093c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:588:0:-1
+Address = 0x00000944  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:590:0:-1
+Address = 0x00000948  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:81:0:-1
+Address = 0x0000094e  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:82:0:-1
+Address = 0x00000952  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:84:0:-1
+Address = 0x00000956  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:588:0:-1
+Address = 0x0000095e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:590:0:-1
+Address = 0x00000962  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:85:0:-1
+Address = 0x00000966  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:86:0:-1
+Address = 0x0000096c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:588:0:-1
+Address = 0x00000974  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:590:0:-1
+Address = 0x00000978  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:87:0:-1
+Address = 0x0000097c  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:88:0:-1
+Address = 0x00000982  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:588:0:-1
+Address = 0x0000098a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:590:0:-1
+Address = 0x0000098e  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:89:0:-1
+Address = 0x00000992  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:90:0:-1
+Address = 0x0000099a  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:92:0:-1
+Address = 0x000009a2  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:94:0:-1
+Address = 0x000009aa  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:588:0:-1
+Address = 0x000009b2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:590:0:-1
+Address = 0x000009b6  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:94:0:-1
+Address = 0x000009c0  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:93:0:-1
+Address = 0x000009c6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:588:0:-1
+Address = 0x000009ce  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:590:0:-1
+Address = 0x000009d2  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:95:0:-1
+Address = 0x000009d6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:588:0:-1
+Address = 0x000009de  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:590:0:-1
+Address = 0x000009e2  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:96:0:-1
+Address = 0x000009e6  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:98:0:-1
+Address = 0x000009f0  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:99:0:-1
+Address = 0x000009f6  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:100:0:-1
+Address = 0x00000a18  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:141:0:-1
+Address = 0x00000a1a  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:142:0:-1
+Address = 0x00000a1c  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:143:0:-1
+Address = 0x00000a1e  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:144:0:-1
+Address = 0x00000a22  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:145:0:-1
+Address = 0x00000a24  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:149:0:-1
+Address = 0x00000a28  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:150:0:-1
+Address = 0x00000a2c  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:151:0:-1
+Address = 0x00000a30  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:152:0:-1
+Address = 0x00000a34  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:153:0:-1
+Address = 0x00000a36  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:156:0:-1
+Address = 0x00000a36  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:157:0:-1
+Address = 0x00000a3e  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:159:0:-1
+Address = 0x00000a4c  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:161:0:-1
+Address = 0x00000a5a  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:163:0:-1
+Address = 0x00000a6a  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:168:0:-1
+Address = 0x00000a7a  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:169:0:-1
+Address = 0x00000a9e  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:170:0:-1
+Address = 0x00000aa0  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:171:0:-1
+Address = 0x00000aac  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:174:0:-1
+Address = 0x00000ab8  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:175:0:-1
+Address = 0x00000ac4  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:176:0:-1
+Address = 0x00000ac6  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:177:0:-1
+Address = 0x00000aca  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:178:0:-1
+Address = 0x00000ad6  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:181:0:-1
+Address = 0x00000ade  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:182:0:-1
+Address = 0x00000b0e  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:183:0:-1
+Address = 0x00000b10  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:184:0:-1
+Address = 0x00000b1c  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:190:0:-1
+Address = 0x00000b2a  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:191:0:-1
+Address = 0x00000b32  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:26:0:-1
+Address = 0x00000b34  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:27:0:-1
+Address = 0x00000b36  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:28:0:-1
+Address = 0x00000b38  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000b40  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:30:0:-1
+Address = 0x00000b42  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x00000b48  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:32:0:-1
+Address = 0x00000b4a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000b52  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:34:0:-1
+Address = 0x00000b54  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:193:0:-1
+Address = 0x00000b5c  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:195:0:-1
+Address = 0x00000b74  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:194:0:-1
+Address = 0x00000b7a  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:196:0:-1
+Address = 0x00000b7e  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:197:0:-1
+Address = 0x00000b88  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:199:0:-1
+Address = 0x00000ba0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:26:0:-1
+Address = 0x00000ba2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:27:0:-1
+Address = 0x00000ba4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:28:0:-1
+Address = 0x00000ba6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000bb4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:30:0:-1
+Address = 0x00000bb6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x00000bc0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:32:0:-1
+Address = 0x00000bc2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000bcc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:34:0:-1
+Address = 0x00000bce  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:201:0:-1
+Address = 0x00000bd2  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:202:0:-1
+Address = 0x00000bda  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:203:0:-1
+Address = 0x00000bde  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:26:0:-1
+Address = 0x00000be0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:27:0:-1
+Address = 0x00000be2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:28:0:-1
+Address = 0x00000be4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000bea  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:30:0:-1
+Address = 0x00000bec  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:83:0:-1
+Address = 0x00000bf0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:32:0:-1
+Address = 0x00000bf2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000bf8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/ds1820\/ds1820.c:34:0:-1
+Address = 0x00000bfa  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:205:0:-1
+Address = 0x00000bfe  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:208:0:-1
+Address = 0x00000c16  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:209:0:-1
+Address = 0x00000c20  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:211:0:-1
+Address = 0x00000c30  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:13:0:-1
+Address = 0x00000c52  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:14:0:-1
+Address = 0x00000c56  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:15:0:-1
+Address = 0x00000c60  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:16:0:-1
+Address = 0x00000c70  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:17:0:-1
+Address = 0x00000c74  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:18:0:-1
+Address = 0x00000c84  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:19:0:-1
+Address = 0x00000c88  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:21:0:-1
+Address = 0x00000c8c  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:22:0:-1
+Address = 0x00000c9a  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:23:0:-1
+Address = 0x00000ca2  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:24:0:-1
+Address = 0x00000ca6  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:25:0:-1
+Address = 0x00000cae  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:26:0:-1
+Address = 0x00000cb2  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:27:0:-1
+Address = 0x00000cb4  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:28:0:-1
+Address = 0x00000cba  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:30:0:-1
+Address = 0x00000cda  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:31:0:-1
+Address = 0x00000cdc  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:32:0:-1
+Address = 0x00000ce0  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:34:0:-1
+Address = 0x00000ce6  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:37:0:-1
+Address = 0x00000cec  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:38:0:-1
+Address = 0x00000d0e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:455:0:-1
+Address = 0x00000d28  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:457:0:-1
+Address = 0x00000d3a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000d3e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:459:0:-1
+Address = 0x00000d42  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:460:0:-1
+Address = 0x00000d46  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:461:0:-1
+Address = 0x00000d52  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:462:0:-1
+Address = 0x00000d74  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:463:0:-1
+Address = 0x00000d82  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:464:0:-1
+Address = 0x00000d90  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:466:0:-1
+Address = 0x00000daa  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:467:0:-1
+Address = 0x00000db8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:468:0:-1
+Address = 0x00000dbc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000dc0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:470:0:-1
+Address = 0x00000dc8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:471:0:-1
+Address = 0x00000dca  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:473:0:-1
+Address = 0x00000dd4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:475:0:-1
+Address = 0x00000dd8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000ddc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:477:0:-1
+Address = 0x00000de4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:478:0:-1
+Address = 0x00000de6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:480:0:-1
+Address = 0x00000df0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:482:0:-1
+Address = 0x00000df4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000df8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:484:0:-1
+Address = 0x00000dfe  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:487:0:-1
+Address = 0x00000e02  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000e06  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:492:0:-1
+Address = 0x00000e1e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:253:0:-1
+Address = 0x00000e24  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000e28  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:256:0:-1
+Address = 0x00000e2c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:257:0:-1
+Address = 0x00000e30  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:258:0:-1
+Address = 0x00000e34  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:259:0:-1
+Address = 0x00000e40  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:260:0:-1
+Address = 0x00000e4a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000e4e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:262:0:-1
+Address = 0x00000e56  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:263:0:-1
+Address = 0x00000e5a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:264:0:-1
+Address = 0x00000e64  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:268:0:-1
+Address = 0x00000e70  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:269:0:-1
+Address = 0x00000e7a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:271:0:-1
+Address = 0x00000e7e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000e82  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:274:0:-1
+Address = 0x00000e90  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000e96  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x00000e98  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x00000e9a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:273:0:-1
+Address = 0x00000e9e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:277:0:-1
+Address = 0x00000ea2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000ea6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:280:0:-1
+Address = 0x00000eb4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000eba  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x00000ebc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x00000ebe  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:279:0:-1
+Address = 0x00000ec2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:283:0:-1
+Address = 0x00000ec6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:284:0:-1
+Address = 0x00000ecc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:287:0:-1
+Address = 0x00000ed0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000ed4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:292:0:-1
+Address = 0x00000edc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:209:0:-1
+Address = 0x00000ee2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000ee6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:213:0:-1
+Address = 0x00000eea  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:214:0:-1
+Address = 0x00000eee  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:215:0:-1
+Address = 0x00000ef2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:216:0:-1
+Address = 0x00000efe  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:217:0:-1
+Address = 0x00000f08  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000f0c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:219:0:-1
+Address = 0x00000f14  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:220:0:-1
+Address = 0x00000f18  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:221:0:-1
+Address = 0x00000f22  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:225:0:-1
+Address = 0x00000f2e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:226:0:-1
+Address = 0x00000f38  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:228:0:-1
+Address = 0x00000f3c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000f40  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:231:0:-1
+Address = 0x00000f4e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000f54  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x00000f56  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x00000f58  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:230:0:-1
+Address = 0x00000f5c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:234:0:-1
+Address = 0x00000f60  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000f64  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:237:0:-1
+Address = 0x00000f72  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000f78  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x00000f7a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x00000f7c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:236:0:-1
+Address = 0x00000f80  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:240:0:-1
+Address = 0x00000f84  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000f88  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:242:0:-1
+Address = 0x00000f8e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:245:0:-1
+Address = 0x00000f92  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000f96  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:250:0:-1
+Address = 0x00000f9e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:159:0:-1
+Address = 0x00000fac  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:162:0:-1
+Address = 0x00000fb0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000fb4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:164:0:-1
+Address = 0x00000fb8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:165:0:-1
+Address = 0x00000fc4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:166:0:-1
+Address = 0x00000fce  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:167:0:-1
+Address = 0x00000fde  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:168:0:-1
+Address = 0x00000fee  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00000ff4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:170:0:-1
+Address = 0x00000ff8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00000ffc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:172:0:-1
+Address = 0x00001006  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:174:0:-1
+Address = 0x00001014  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x0000101a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x0000101c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x0000101e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:176:0:-1
+Address = 0x00001038  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:177:0:-1
+Address = 0x0000104c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:179:0:-1
+Address = 0x00001050  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00001054  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:181:0:-1
+Address = 0x00001060  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:183:0:-1
+Address = 0x0000106e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00001074  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x00001076  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x00001078  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:185:0:-1
+Address = 0x00001090  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:186:0:-1
+Address = 0x0000109e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:188:0:-1
+Address = 0x000010a2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x000010a6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:190:0:-1
+Address = 0x000010aa  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:191:0:-1
+Address = 0x000010b0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:192:0:-1
+Address = 0x000010ca  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:193:0:-1
+Address = 0x000010de  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:195:0:-1
+Address = 0x000010f8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:196:0:-1
+Address = 0x00001104  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:197:0:-1
+Address = 0x00001112  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:198:0:-1
+Address = 0x00001122  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:199:0:-1
+Address = 0x00001130  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:201:0:-1
+Address = 0x00001134  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x0000113a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:169:0:-1
+Address = 0x00001142  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:206:0:-1
+Address = 0x00001152  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:382:0:-1
+Address = 0x0000116c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:384:0:-1
+Address = 0x00001170  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:385:0:-1
+Address = 0x00001174  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:386:0:-1
+Address = 0x00001180  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:387:0:-1
+Address = 0x00001192  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:388:0:-1
+Address = 0x000011a2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000011a8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:400:0:-1
+Address = 0x000011aa  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:390:0:-1
+Address = 0x000011ae  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:391:0:-1
+Address = 0x000011b8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:395:0:-1
+Address = 0x000011c4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:396:0:-1
+Address = 0x000011d2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:398:0:-1
+Address = 0x000011d6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x000011da  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:401:0:-1
+Address = 0x000011e8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000011ee  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x000011f0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x000011f2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:400:0:-1
+Address = 0x000011f4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:404:0:-1
+Address = 0x000011f8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x000011fc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:407:0:-1
+Address = 0x0000120a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00001210  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x00001212  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x00001214  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:406:0:-1
+Address = 0x00001216  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:410:0:-1
+Address = 0x0000121a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x0000121e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:419:0:-1
+Address = 0x00001226  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:414:0:-1
+Address = 0x0000122a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00001230  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:420:0:-1
+Address = 0x0000123a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:421:0:-1
+Address = 0x00001266  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:422:0:-1
+Address = 0x00001288  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:428:0:-1
+Address = 0x00001290  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00001296  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:424:0:-1
+Address = 0x0000129a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:425:0:-1
+Address = 0x000012a2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:426:0:-1
+Address = 0x000012a4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:428:0:-1
+Address = 0x000012c8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:429:0:-1
+Address = 0x000012ee  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000012f4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x000012f6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x000012f8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:432:0:-1
+Address = 0x000012fc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:433:0:-1
+Address = 0x00001304  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:434:0:-1
+Address = 0x00001306  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:436:0:-1
+Address = 0x0000132a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:437:0:-1
+Address = 0x00001350  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00001356  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x00001358  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x0000135a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:440:0:-1
+Address = 0x0000135e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00001362  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:449:0:-1
+Address = 0x0000136e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:444:0:-1
+Address = 0x00001372  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00001378  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:451:0:-1
+Address = 0x0000137c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:452:0:-1
+Address = 0x00001396  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:295:0:-1
+Address = 0x000013ba  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x000013be  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:299:0:-1
+Address = 0x000013c2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:300:0:-1
+Address = 0x000013c6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:301:0:-1
+Address = 0x000013d2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:302:0:-1
+Address = 0x000013e4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:303:0:-1
+Address = 0x000013f4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000013f8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:315:0:-1
+Address = 0x000013fc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:305:0:-1
+Address = 0x00001400  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:306:0:-1
+Address = 0x0000140a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:310:0:-1
+Address = 0x00001416  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:311:0:-1
+Address = 0x00001424  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:313:0:-1
+Address = 0x00001428  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x0000142c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:316:0:-1
+Address = 0x0000143a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00001440  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x00001442  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x00001444  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:315:0:-1
+Address = 0x00001446  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:319:0:-1
+Address = 0x0000144a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x0000144e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:322:0:-1
+Address = 0x0000145c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00001462  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x00001464  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x00001466  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:321:0:-1
+Address = 0x00001468  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:325:0:-1
+Address = 0x0000146c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00001470  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:334:0:-1
+Address = 0x00001476  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:329:0:-1
+Address = 0x0000147a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00001480  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:336:0:-1
+Address = 0x00001494  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:337:0:-1
+Address = 0x000014d0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:338:0:-1
+Address = 0x000014f0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:341:0:-1
+Address = 0x000014f8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:347:0:-1
+Address = 0x000014fa  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000014fe  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:343:0:-1
+Address = 0x00001502  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:362:0:-1
+Address = 0x00001506  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:340:0:-1
+Address = 0x0000150a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:341:0:-1
+Address = 0x0000152e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:342:0:-1
+Address = 0x00001538  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:343:0:-1
+Address = 0x00001552  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:344:0:-1
+Address = 0x00001558  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:345:0:-1
+Address = 0x0000155e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:346:0:-1
+Address = 0x00001566  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:347:0:-1
+Address = 0x000015a2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:348:0:-1
+Address = 0x000015c4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000015ca  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x000015cc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x000015ce  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:351:0:-1
+Address = 0x000015d2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:352:0:-1
+Address = 0x000015e2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:353:0:-1
+Address = 0x00001604  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:354:0:-1
+Address = 0x0000160a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:355:0:-1
+Address = 0x0000161a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:356:0:-1
+Address = 0x00001622  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:357:0:-1
+Address = 0x0000165e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:358:0:-1
+Address = 0x00001680  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00001686  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x00001688  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x0000168a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:361:0:-1
+Address = 0x00001694  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:362:0:-1
+Address = 0x000016a2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:364:0:-1
+Address = 0x000016a6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x000016aa  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:366:0:-1
+Address = 0x000016ac  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:368:0:-1
+Address = 0x000016b0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x000016b6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:339:0:-1
+Address = 0x000016be  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:375:0:-1
+Address = 0x000016e2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:377:0:-1
+Address = 0x000016e6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:378:0:-1
+Address = 0x000016ee  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:379:0:-1
+Address = 0x00001712  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:519:0:-1
+Address = 0x00001716  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:520:0:-1
+Address = 0x00001720  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:521:0:-1
+Address = 0x00001724  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:522:0:-1
+Address = 0x0000172c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:523:0:-1
+Address = 0x00001730  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:524:0:-1
+Address = 0x00001734  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:526:0:-1
+Address = 0x0000174c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:527:0:-1
+Address = 0x00001750  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:528:0:-1
+Address = 0x0000175a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:530:0:-1
+Address = 0x0000175e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:27:0:-1
+Address = 0x00001792  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:29:0:-1
+Address = 0x0000179c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:30:0:-1
+Address = 0x000017a2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:29:0:-1
+Address = 0x000017a8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:31:0:-1
+Address = 0x000017cc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:33:0:-1
+Address = 0x000017ee  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:34:0:-1
+Address = 0x000017fa  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:38:0:-1
+Address = 0x0000180c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00001812  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:45:0:-1
+Address = 0x00001818  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:43:0:-1
+Address = 0x0000181c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:37:0:-1
+Address = 0x00001824  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:38:0:-1
+Address = 0x0000185e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:39:0:-1
+Address = 0x00001876  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:40:0:-1
+Address = 0x0000187a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:41:0:-1
+Address = 0x0000187e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:42:0:-1
+Address = 0x00001880  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:43:0:-1
+Address = 0x0000189c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:44:0:-1
+Address = 0x000018a0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:45:0:-1
+Address = 0x000018ae  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000018b4  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x000018b6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x000018b8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:48:0:-1
+Address = 0x000018bc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:49:0:-1
+Address = 0x000018d8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:50:0:-1
+Address = 0x000018fc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:51:0:-1
+Address = 0x00001902  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x00001908  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x0000190a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x0000190c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:55:0:-1
+Address = 0x00001910  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:56:0:-1
+Address = 0x00001918  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:57:0:-1
+Address = 0x0000191c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:58:0:-1
+Address = 0x00001926  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x0000192c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:62:0:-1
+Address = 0x00001930  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00001934  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:67:0:-1
+Address = 0x00001958  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:508:0:-1
+Address = 0x00001968  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:509:0:-1
+Address = 0x00001978  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:510:0:-1
+Address = 0x00001998  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:511:0:-1
+Address = 0x000019ba  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:512:0:-1
+Address = 0x000019bc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:513:0:-1
+Address = 0x000019ca  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:515:0:-1
+Address = 0x000019ce  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:496:0:-1
+Address = 0x000019d2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:497:0:-1
+Address = 0x000019e2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:498:0:-1
+Address = 0x000019f2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:499:0:-1
+Address = 0x00001a02  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:500:0:-1
+Address = 0x00001a06  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:502:0:-1
+Address = 0x00001a0a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:70:0:-1
+Address = 0x00001a1a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:73:0:-1
+Address = 0x00001a1e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00001a22  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:78:0:-1
+Address = 0x00001a2e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:79:0:-1
+Address = 0x00001a3c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:77:0:-1
+Address = 0x00001a40  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:78:0:-1
+Address = 0x00001a68  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:79:0:-1
+Address = 0x00001a8a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:80:0:-1
+Address = 0x00001ab6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:81:0:-1
+Address = 0x00001abe  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:82:0:-1
+Address = 0x00001ad8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:83:0:-1
+Address = 0x00001adc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:84:0:-1
+Address = 0x00001ae0  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00001ae6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:88:0:-1
+Address = 0x00001aea  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:91:0:-1
+Address = 0x00001af6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:90:0:-1
+Address = 0x00001afa  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:91:0:-1
+Address = 0x00001b02  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/avr/eeprom.h:300:0:-1
+Address = 0x00001b06  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/avr/eeprom.h:303:0:-1
+Address = 0x00001b08  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/avr/eeprom.h:311:0:-1
+Address = 0x00001b0c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/avr/eeprom.h:313:0:-1
+Address = 0x00001b0e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/avr/eeprom.h:315:0:-1
+Address = 0x00001b1a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:89:0:-1
+Address = 0x00001b20  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:93:0:-1
+Address = 0x00001b24  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:94:0:-1
+Address = 0x00001b30  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:95:0:-1
+Address = 0x00001b3c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:96:0:-1
+Address = 0x00001b4a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:97:0:-1
+Address = 0x00001b58  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:99:0:-1
+Address = 0x00001b5c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:124:0:-1
+Address = 0x00001b60  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:104:0:-1
+Address = 0x00001b66  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:107:0:-1
+Address = 0x00001b78  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:16:0:-1
+Address = 0x00001b80  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:17:0:-1
+Address = 0x00001b84  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:18:0:-1
+Address = 0x00001bec  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:19:0:-1
+Address = 0x00001c58  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:20:0:-1
+Address = 0x00001c7e  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:21:0:-1
+Address = 0x00001c8a  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:22:0:-1
+Address = 0x00001c92  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:23:0:-1
+Address = 0x00001ca6  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:24:0:-1
+Address = 0x00001cb0  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:104:0:-1
+Address = 0x00001cb2  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:141:0:-1
+Address = 0x00001cb4  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:142:0:-1
+Address = 0x00001cb8  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:143:0:-1
+Address = 0x00001cba  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:144:0:-1
+Address = 0x00001cc0  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:149:0:-1
+Address = 0x00001cc4  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:150:0:-1
+Address = 0x00001cca  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:151:0:-1
+Address = 0x00001cce  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:152:0:-1
+Address = 0x00001cd2  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:109:0:-1
+Address = 0x00001cd8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:596:0:-1
+Address = 0x00001cdc  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:597:0:-1
+Address = 0x00001ce2  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:598:0:-1
+Address = 0x00001ce8  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:599:0:-1
+Address = 0x00001cec  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/moje/clock.c:600:0:-1
+Address = 0x00001cf2  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:111:0:-1
+Address = 0x00001cf6  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:112:0:-1
+Address = 0x00001cfa  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:113:0:-1
+Address = 0x00001cfe  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:115:0:-1
+Address = 0x00001d02  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:116:0:-1
+Address = 0x00001d04  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:117:0:-1
+Address = 0x00001d0c  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:120:0:-1
+Address = 0x00001d10  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:121:0:-1
+Address = 0x00001d18  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/avr/eeprom.h:197:0:-1
+Address = 0x00001d1c  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/avr/eeprom.h:201:0:-1
+Address = 0x00001d20  File:line:col:begin = c:/program files/winavr-20090313/lib/gcc/../../avr/include/avr/eeprom.h:208:0:-1
+Address = 0x00001d24  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:121:0:-1
+Address = 0x00001d2e  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:119:0:-1
+Address = 0x00001d34  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:124:0:-1
+Address = 0x00001d36  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:128:0:-1
+Address = 0x00001d3a  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:129:0:-1
+Address = 0x00001d3e  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:130:0:-1
+Address = 0x00001d42  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:131:0:-1
+Address = 0x00001d46  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:132:0:-1
+Address = 0x00001d4e  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:133:0:-1
+Address = 0x00001d54  File:line:col:begin = C:\Documents and Settings\Jergus\Plocha\tests\Clock\default/../clockmg168.c:133:0:-1
